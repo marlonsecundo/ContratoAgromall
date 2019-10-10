@@ -6,6 +6,7 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@react-native-community/cli-platform-android": "^2.9.0",
     "appcenter": "^2.4.0",
     "appcenter-analytics": "^2.4.0",
     "appcenter-crashes": "^2.4.0",
